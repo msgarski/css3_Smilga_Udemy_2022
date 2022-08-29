@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  /* padding: 0;
+  box-sizing: border-box; */
+  border: 2px solid red;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #f2f5f9;
+  line-height: 2rem;
+}
+.section {
+  padding: 10px;
+  background-color: #fff;
+}
+.section-title {
+  text-align: center;
+  text-transform: capitalize;
+}
+.title-underline {
+  height: 5px;
+  width: 100px;
+  background-color: red;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.section-centre {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+  text-align: center;
+}
